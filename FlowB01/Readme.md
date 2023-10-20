@@ -40,7 +40,7 @@ Before using the City Info Contract, make sure you have the following:
 
 ## Author
 
-- [Your Name]
+- Satyam
 
 ## License
 
